@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: MUZAN SIGMA
+    name: KRISHNA SIGMA
     env: docker
     region: Frankfurt
     plan: free
